@@ -21,6 +21,5 @@ Manual de montagem em Inglês: https://github.com/mekanus/Braco-Robotico-Mdf-/bl
 sequência de imagens da monatgem (60 imagens): https://github.com/mekanus/Braco-Robotico-Mdf/blob/main/Imagens-Passo-a-passo.zip
 
 
-Time lapse da montagem:
+Time lapse da montagem: https://youtu.be/PEsKBo4cFpc
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PEsKBo4cFpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
