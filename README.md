@@ -18,4 +18,9 @@ http://www.lojamekanus.com.br/detalhes.asp?IdProduto=522013
 
 Manual de montagem em Inglês: https://github.com/mekanus/Braco-Robotico-Mdf-/blob/main/Novo_Mearm_v.1.4.pdf
 
-sequência de imagens da monatgem (60 imagens): https://github.com/mekanus/Braco-Robotico-Mdf/blob/main/Imagens%20Passo%20a%20passo.zip
+sequência de imagens da monatgem (60 imagens): https://github.com/mekanus/Braco-Robotico-Mdf/blob/main/Imagens-Passo-a-passo.zip
+
+
+Time lapse da montagem:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEsKBo4cFpc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
