@@ -13,3 +13,9 @@ http://www.lojamekanus.com.br/detalhes.asp?IdProduto=522013
 
 ## O material aqui contido não deve ser utilizado com finalidade comercial.
 
+
+# Instruções de montagem:
+
+Manual de montagem em Inglês: https://github.com/mekanus/Braco-Robotico-Mdf-/blob/main/Novo_Mearm_v.1.4.pdf
+
+sequência de imagens da monatgem (60 imagens): https://github.com/mekanus/Braco-Robotico-Mdf/blob/main/Imagens%20Passo%20a%20passo.zip
